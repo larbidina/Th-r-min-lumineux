@@ -14,6 +14,7 @@ Matériel utilisé
 Schéma de montage
 	•	Phototransistor : la patte longue (anode) va au 5V, l'autre patte va à la broche analogique A0 et à la masse (GND) via la résistance de 10 kΩ (pont diviseur de tension).
 	•	Piezo : une patte sur la broche numérique 8, l'autre à la masse (GND).
+	![Montage du circuit](IMG-20260912-WA0008.jpg)
 
   Comment ça marche
 Le code se déroule en deux étapes.
