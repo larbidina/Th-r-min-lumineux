@@ -1,5 +1,5 @@
 Thérémin Lumineux 🔆🎵
-Projet Arduino n°6 de ma série de projets électronique, réalisée en parallèle de ma L2 EEEA.
+Projet Arduino n°2 de ma série de projets électronique, réalisée en parallèle de ma L2 EEEA.
 Description
 Un thérémin est un instrument de musique qu'on joue sans le toucher : le son change selon la position des mains par rapport à l'instrument. Le vrai thérémin fonctionne avec des antennes qui détectent des variations de capacité électrique.
 Pour ce projet, j'ai remplacé la détection capacitive par un phototransistor qui mesure l'intensité lumineuse. En approchant ou en éloignant la main du capteur, on fait varier la quantité de lumière qui l'atteint, et ça change la fréquence du son émis par un petit buzzer piézoélectrique.
